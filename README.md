@@ -1,5 +1,4 @@
 # Calculator-using-c
-Calculator using c 
 
      #include <stdio.h>
     int main()
